@@ -1,14 +1,14 @@
-# 🧮 Calculadora de IMC com Python
+# Calculadora de IMC com Python
 
 Aplicação web desenvolvida com **Python e Flask** para realizar o cálculo de IMC a partir dos dados informados pelo usuário.
 
 Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais de desenvolvimento web utilizando Python no back-end.
 
-## 📸 Preview
+## Preview
 
 ![Preview da Calculadora de IMC](assets/preview.png)
 
-## 🚀 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Python
 - Flask
@@ -17,7 +17,7 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais 
 - Git
 - GitHub
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 - Entrada de peso
 - Entrada de altura
@@ -26,7 +26,7 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais 
 - Validação de valores inválidos
 - Interface responsiva
 
-## 📂 Estrutura do projeto
+## Estrutura do projeto
 
 ```text
 calculadora-imc-python/
